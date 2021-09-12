@@ -8,4 +8,4 @@
 
 ## 2주차
 
-<img width="300" height="400" src="./png/2주차과제.png"></img>
+<img width="300" height="500" src="./png/2주차과제.png"></img>
